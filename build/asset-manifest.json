@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mechcat-website/static/css/main.d2ad936a.css",
+    "main.js": "/mechcat-website/static/js/main.e737280b.js",
+    "static/js/453.ed3810f9.chunk.js": "/mechcat-website/static/js/453.ed3810f9.chunk.js",
+    "static/media/coralreef.png": "/mechcat-website/static/media/coralreef.038a1ceab83cb8edd526.png",
+    "static/media/team.png": "/mechcat-website/static/media/team.c54f2d1b486104a6525b.png",
+    "static/media/robot-img.png": "/mechcat-website/static/media/robot-img.7e7d3345e25652099194.png",
+    "static/media/logo.png": "/mechcat-website/static/media/logo.a5c782965cdd2a3763f8.png",
+    "static/media/insta-icon.png": "/mechcat-website/static/media/insta-icon.fbf2eb82f7c6e96234f1.png",
+    "static/media/email-icon.png": "/mechcat-website/static/media/email-icon.f68d0234b4904d161a7c.png",
+    "static/media/pin-icon.png": "/mechcat-website/static/media/pin-icon.44119b55e0703d8c12f3.png",
+    "static/media/yt-icon.png": "/mechcat-website/static/media/yt-icon.116a03c03e9f3020b0df.png",
+    "static/media/lazycat.png": "/mechcat-website/static/media/lazycat.d956d2d815c3ac10316a.png",
+    "static/media/Tom-Brothers.png": "/mechcat-website/static/media/Tom-Brothers.aa0ede866f4732d44935.png",
+    "static/media/paw2.png": "/mechcat-website/static/media/paw2.8267d3fe91bc380e2cca.png",
+    "static/media/paw1.png": "/mechcat-website/static/media/paw1.1b491218b82604194651.png",
+    "static/media/squiggly-line.png": "/mechcat-website/static/media/squiggly-line.6800acd0bf4bc47d7476.png",
+    "static/media/caustics.jpeg": "/mechcat-website/static/media/caustics.679a670bf3c3e58aa25b.jpeg",
+    "static/media/peaking.png": "/mechcat-website/static/media/peaking.86166829a0a9ba5a7996.png",
+    "static/media/bethune.png": "/mechcat-website/static/media/bethune.8a5799e30307fec95ff3.png",
+    "static/media/wave.png": "/mechcat-website/static/media/wave.dfa221e8724ffa444efc.png",
+    "static/media/fishiewaves.png": "/mechcat-website/static/media/fishiewaves.ab7bd9a3aab07fec3cf2.png",
+    "static/media/arrow.png": "/mechcat-website/static/media/arrow.7c6b1e986e23f25fabf6.png",
+    "index.html": "/mechcat-website/index.html",
+    "main.d2ad936a.css.map": "/mechcat-website/static/css/main.d2ad936a.css.map",
+    "main.e737280b.js.map": "/mechcat-website/static/js/main.e737280b.js.map",
+    "453.ed3810f9.chunk.js.map": "/mechcat-website/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ad936a.css",
+    "static/js/main.e737280b.js"
+  ]
+}
